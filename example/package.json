@@ -19,9 +19,9 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^23.0.4",
+    "expo": "^33.0.1",
     "react": "16.0.0",
-    "react-native": "0.50.3",
+    "react-native": "0.60.0",
     "react-native-credit-card-input": "file:./.."
   }
 }
